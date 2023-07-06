@@ -56,8 +56,14 @@ li{
     margin-top: 10px;
     
 } 
+.banner-btn:hover{
+    background-color: blue d;
+}
 .about-container{
     justify-content: center;
+    padding: 15px 0px 20px 500px;
+    font-size: xx-large;
+    font-weight: 700px;
 }
 .about{
     display: flex;
@@ -77,6 +83,10 @@ li{
     border: none;
     border-radius: 5px;
     margin-top: 10px;
+}
+.about-btn:hover{
+    background-color: blue;
+    
 }
 .about-img{
     width: 300px;
@@ -107,7 +117,9 @@ li{
 }
 .service{
     color: white;
-    justify-content: center; 
+     padding: 15px 0px 20px 500px;
+    font-size: xx-large;
+    font-weight: 700px;
 }
 .img{
     width: 100px;
@@ -129,6 +141,10 @@ li{
     border-radius: 5px;
     padding: 5px;
     margin-left: 50px;
+}
+.btn:hover{
+    background-color:midnightblue;
+    font-style: italic;
 }
 .last-container{
     background-color: black;
