@@ -57,7 +57,7 @@ li{
     
 } 
 .banner-btn:hover{
-    background-color: blue d;
+    background-color: blue;
 }
 .about-container{
     font-size: xx-large;
@@ -111,8 +111,7 @@ li{
     padding: 20px;
     border-radius: 10px;
     box-shadow: 5px 10px 20px 10px rgb(179, 172, 172);
-   /* display: flex;
-   justify-content: space-around; */
+ 
   
 }
 .service{
