@@ -60,10 +60,10 @@ li{
     background-color: blue d;
 }
 .about-container{
-    justify-content: center;
-    padding: 15px 0px 20px 500px;
     font-size: xx-large;
     font-weight: 700px;
+    text-align: center;
+    margin-top: 15px;
 }
 .about{
     display: flex;
@@ -101,7 +101,7 @@ li{
 .services{
     display: flex;
     justify-content: space-around;
-    padding-top: 150px;
+    /* padding-top: 150px; */
 }
 .service-details{
     border: 10px;
@@ -117,9 +117,10 @@ li{
 }
 .service{
     color: white;
-     padding: 15px 0px 20px 500px;
+    text-align: center;
     font-size: xx-large;
-    font-weight: 700px;
+    font-weight: 900px;
+    padding: 50px;
 }
 .img{
     width: 100px;
@@ -177,5 +178,5 @@ li{
 }
 .copy{
     color: white;
-    justify-content: center;
+  text-align: center;
 }
