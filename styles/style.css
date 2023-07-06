@@ -1,0 +1,163 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: rgb(96, 94, 94);
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+
+  
+}
+.login{
+    color: white;
+    display: flex;
+    list-style: none;
+    margin-top: 30px;
+    
+}
+li{
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.banner-container{
+    display: flex;
+    /* margin: 20px; */
+    background-image: url('../images/background.png'),linear-gradient(45deg,black,rgb(61, 56, 56));
+    margin-top: 0;
+    padding: 150px;
+}
+.banner{
+    margin-left: 50px;
+    color: white;
+}
+.banner-img{
+    width: 300px;
+    margin-left: 150px;
+}
+.banner-title{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.banner-btn{
+    background-color: crimson;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+} 
+.about-container{
+    justify-content: center;
+}
+.about{
+    display: flex;
+    padding: 25px 150px;
+   
+
+}
+.about-title{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.about-btn{
+    background-color: crimson;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.about-img{
+    width: 300px;
+}
+.image{
+    margin-right: 200px;
+}
+.service-container{
+    background-image: url('../images/background.png'),linear-gradient(45deg,black,rgb(61, 56, 56));
+}
+.services{
+    display: flex;
+    justify-content: space-around;
+}
+.service-details{
+    border: 10px;
+    background-color: black;
+    width: 200px;
+    margin: 10px 100px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 20px 10px rgb(179, 172, 172);
+   /* display: flex;
+   justify-content: space-around; */
+  
+}
+.service{
+    color: white;
+    justify-content: center;
+}
+.img{
+    width: 100px;
+    padding-left: 45px;
+  
+}
+.title{
+    color:white;
+    padding-left: 45px;
+}
+.details{
+    color: white;
+    padding-bottom: 10px;
+}
+.btn{
+    color: white;
+    background-color: rgb(130, 125, 125);
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 50px;
+}
+.last-container{
+    background-color: black;
+    margin: 0px;
+}
+.photo-details{
+    color: white;
+    
+}
+.logos{
+    width: 200px;
+}
+.second{
+    color: white;
+}
+.third{
+    color: white;
+}
+.fourth{
+    color: white;
+}
+.last{
+    display: flex;
+    padding: 100px 100px;
+    justify-content: space-around;
+ 
+}
+.line{
+
+}
+.copy{
+    color: white;
+    justify-content: center;
+}
